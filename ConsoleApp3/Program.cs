@@ -13,6 +13,7 @@ namespace ConsoleApp3
             Console.WriteLine("hODEI <3 ARTURO");
             Console.WriteLine("YO TE DAVA");
             Console.WriteLine("hODEI <3 ARTURO");
+            Console.WriteLine("hODEI <3 ARTURO");
         }
     }
 }
