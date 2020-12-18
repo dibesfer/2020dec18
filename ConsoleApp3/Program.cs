@@ -11,6 +11,8 @@ namespace ConsoleApp3
             Console.WriteLine("qUIERES QUE TE DIGA UN SECRETO");
             Console.WriteLine("YO TE DAVA");
             Console.WriteLine("hODEI <3 ARTURO");
+            Console.WriteLine("YO TE DAVA");
+            Console.WriteLine("hODEI <3 ARTURO");
         }
     }
 }
