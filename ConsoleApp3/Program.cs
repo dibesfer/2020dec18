@@ -10,6 +10,7 @@ namespace ConsoleApp3
             Console.WriteLine("y además no te vas a enterar de na");
             Console.WriteLine("qUIERES QUE TE DIGA UN SECRETO");
             Console.WriteLine("YO TE DAVA");
+            Console.WriteLine("hODEI <3 ARTURO");
         }
     }
 }
