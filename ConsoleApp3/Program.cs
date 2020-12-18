@@ -8,6 +8,7 @@ namespace ConsoleApp3
         {
             Console.WriteLine("Hola cabrón, te voy a enseñar CE SHAR");
             Console.WriteLine("y además no te vas a enterar de na");
+            Console.WriteLine("qUIERES QUE TE DIGA UN SECRETO");
         }
     }
 }
